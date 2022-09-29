@@ -11,7 +11,7 @@
   <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamandreribeiro&show_icons=true&layout=compact&theme=cobalt" height="400" />
 </div>
 
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,10 +25,10 @@
 <br><br>
 
 
-### What i usually listen to:
+### I'm listening to 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ndr3ntc&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-<br>
+<br><br>
 
-### <br>Watch my contribution graph get eaten by the snake snake</br>
+### <br>Watch my contribution graph get eaten by the snake 🐍</br>
 ![github-user-contribution](https://user-images.githubusercontent.com/110317372/193108933-446e6767-f48a-4f2e-896d-698c1d01cbc4.svg)
 <br>
