@@ -1,6 +1,6 @@
 ## 👋  Hello everyone, I'm André Ribeiro Rafael 👋
 
-- 📚  I'm a undergraduate Computer Science student at <a href="https://inf.ufg.br/">Federal University of Goiás (UFG)</a>
+- 📚  I'm a undergraduate Computer Science student at <a href="https://www.ufg.br/">Federal University of Goiás (UFG)</a>
 - 👀  Currently studying Full Stack Web Development at <a href="https://www.driven.com.br/">Driven Education</a>
 - ⚽ I'm a big fan of all kinds of sports, but especially football, which I totally love and I'm always cheering for my teams (Corinthians, M. United and Real Madrid)
 - 📫  Please feel free to ask me 'bout anything 😊
