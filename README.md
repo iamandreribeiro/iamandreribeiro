@@ -10,17 +10,6 @@
 <a href="https://www.instagram.com/iamandrerafael/?theme=dark" target="blank"><img align="center" 
 src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 
-## I'm listening to 🎧
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ndr3ntc&cover_image=true&theme=novatorem" />
-</div>
-
-<br>
-<div align="center">
-  <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=iamandreribeiro&count_private=true&theme=dracula" height="400" />
-  <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamandreribeiro&show_icons=true&layout=compact&theme=dracula" height="400" />
-</div>
-
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,10 +23,20 @@ src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.pn
 
 <br>
 <div align="center">
+  <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=iamandreribeiro&count_private=true&theme=dracula" height="400" />
+  <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamandreribeiro&show_icons=true&layout=compact&theme=dracula" height="400" />
+</div>
+
+<br>
+<div align="center">
 <img height="280em" align="center" alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamandreribeiro&theme=dracula" height="800"/>
 </div>
 <br>
 
+## I'm listening to 🎧
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ndr3ntc&cover_image=true&theme=novatorem" />
+</div>
 
 ## Watch my contribution graph get eaten by the snake 🐍
 ![github-user-contribution](https://user-images.githubusercontent.com/110317372/193108933-446e6767-f48a-4f2e-896d-698c1d01cbc4.svg)
