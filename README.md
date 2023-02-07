@@ -12,16 +12,16 @@ src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.pn
 
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-FF2D72?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/jest-A22D72?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-282A36?style=for-the-badge&logo=html5&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/css3-282A36?style=for-the-badge&logo=css3&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/javascript-282A36?style=for-the-badge&logo=javascript&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/react-282A36?style=for-the-badge&logo=react&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/node.js-282A36?style=for-the-badge&logo=node.js&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-282A36?style=for-the-badge&logo=mongodb&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/postgres-282A36?style=for-the-badge&logo=postgresql&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/Prisma-282A36?style=for-the-badge&logo=prisma&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/jest-282A36?style=for-the-badge&logo=jest&logoColor=78D9F9" height="30"/>
 </div>
 
 <br>
