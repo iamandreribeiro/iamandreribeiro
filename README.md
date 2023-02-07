@@ -21,6 +21,7 @@ src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.pn
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-FF2D72?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/jest-A22D72?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
 
 <br>
