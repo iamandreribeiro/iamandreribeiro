@@ -4,11 +4,10 @@
 - 👀  Currently studying Full Stack Web Development at <a href="https://www.driven.com.br/">Driven Education</a>
 - ⚽ I'm a big fan of all kinds of sports, but especially football, which I totally love and I'm always cheering for my teams (Corinthians, M. United and Real Madrid)
 - 📫  Please feel free to ask me 'bout anything 😊
+- 📧 Talk to me: andreribeiroorafael@gmail.com
 
 ## Find me all around the web:
 <a href="https://www.linkedin.com/in/iamandreribeiro/" target="blank"><img align="left" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href=mailto:andreribeiroorafael@gmail.com target="blank"><img align="center" 
-src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 
 <br>
 <div align="center">
