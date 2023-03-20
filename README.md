@@ -10,17 +10,26 @@
 <a href="https://www.linkedin.com/in/iamandreribeiro/" target="blank"><img align="left" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <br>
 <br>
+## Front-End
 <div align="center">
   <img src="https://img.shields.io/badge/html5-282A36?style=for-the-badge&logo=html5&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/css3-282A36?style=for-the-badge&logo=css3&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/javascript-282A36?style=for-the-badge&logo=javascript&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/react-282A36?style=for-the-badge&logo=react&logoColor=78D9F9" height="30"/>
+</div>
+
+## Back-End
+<div align="center">
   <img src="https://img.shields.io/badge/node.js-282A36?style=for-the-badge&logo=node.js&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/jest-282A36?style=for-the-badge&logo=jest&logoColor=78D9F9" height="30"/>
+</div>
+
+## Data-Base
+<div align="center">
   <img src="https://img.shields.io/badge/MongoDB-282A36?style=for-the-badge&logo=mongodb&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/postgres-282A36?style=for-the-badge&logo=postgresql&logoColor=78D9F9" height="30"/>
-  <img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/Prisma-282A36?style=for-the-badge&logo=prisma&logoColor=78D9F9" height="30"/>
-  <img src="https://img.shields.io/badge/jest-282A36?style=for-the-badge&logo=jest&logoColor=78D9F9" height="30"/>
 </div>
 
 <br>
