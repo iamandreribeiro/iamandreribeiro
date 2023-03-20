@@ -7,7 +7,7 @@
 
 ## Find me all around the web:
 <a href="https://www.linkedin.com/in/iamandreribeiro/" target="blank"><img align="left" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="https://www.instagram.com/iamandrerafael/?theme=dark" target="blank"><img align="center" 
+<a href=mailto:andreribeiroorafael@gmail.com target="blank"><img align="center" 
 src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 
 <br>
