@@ -3,12 +3,12 @@
 - 📚  I'm a undergraduate Computer Science student at <a href="https://www.ufg.br/">Federal University of Goiás (UFG)</a>
 - 👀  Currently studying Full Stack Web Development at <a href="https://www.driven.com.br/">Driven Education</a>
 - ⚽ I'm a big fan of all kinds of sports, but especially football, which I totally love and I'm always cheering for my teams (Corinthians, M. United and Real Madrid)
-- 📫  Please feel free to ask me 'bout anything 😊
 - 📧 Talk to me: andreribeiroorafael@gmail.com
+- 📫  Please feel free to ask me 'bout anything 😊
 
 ## Find me all around the web:
 <a href="https://www.linkedin.com/in/iamandreribeiro/" target="blank"><img align="left" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-
+<br>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-282A36?style=for-the-badge&logo=html5&logoColor=78D9F9" height="30"/>
