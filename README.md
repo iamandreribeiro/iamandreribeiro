@@ -1,7 +1,8 @@
 ## 👋  Hello everyone, I'm André Ribeiro Rafael 👋
 
+- 💻  I'm a Junior Developer at <a href="https://netsupre.com.br/">Net Suprema</a>
 - 📚  I'm a undergraduate Computer Science student at <a href="https://www.ufg.br/">Federal University of Goiás (UFG)</a>
-- 👀  Currently studying Full Stack Web Development at <a href="https://www.driven.com.br/">Driven Education</a>
+- 👀  Graduated in Full Stack Web Development at <a href="https://www.driven.com.br/">Driven Education</a>
 - ⚽ I'm a big fan of all kinds of sports, but especially football, which I totally love and I'm always cheering for my teams (Corinthians, M. United and Real Madrid)
 - 📧 Talk to me: andreribeiroorafael@gmail.com
 - 📫  Please feel free to ask me 'bout anything 😊
@@ -20,6 +21,7 @@
 
 ## Back-End
 <div align="center">
+  <img src="https://img.shields.io/badge/php-282A36?style=for-the-badge&logo=php&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/node.js-282A36?style=for-the-badge&logo=node.js&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/jest-282A36?style=for-the-badge&logo=jest&logoColor=78D9F9" height="30"/>
@@ -27,8 +29,8 @@
 
 ## Data-Base
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-282A36?style=for-the-badge&logo=mongodb&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/postgres-282A36?style=for-the-badge&logo=postgresql&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-282A36?style=for-the-badge&logo=mongodb&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/Prisma-282A36?style=for-the-badge&logo=prisma&logoColor=78D9F9" height="30"/>
 </div>
 
