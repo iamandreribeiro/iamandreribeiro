@@ -1,7 +1,7 @@
 ## 👋  Hello everyone, I'm André Ribeiro Rafael 👋
 
 - 💻  I'm a Junior Developer at <a href="https://netsupre.com.br/">Net Suprema</a>
-- 📚  I'm a undergraduate Computer Science student at <a href="https://www.ufg.br/">Federal University of Goiás (UFG)</a>
+- 📚  I'm an undergraduate Computer Science student at <a href="https://www.ufg.br/">Federal University of Goiás (UFG)</a>
 - 👀  Graduated in Full Stack Web Development at <a href="https://www.driven.com.br/">Driven Education</a>
 - ⚽ I'm a big fan of all kinds of sports, but especially football, which I totally love and I'm always cheering for my teams (Corinthians, M. United and Real Madrid)
 - 📧 Talk to me: andreribeiroorafael@gmail.com
