@@ -1,6 +1,6 @@
 ## 👋  Hello everyone, I'm André Ribeiro Rafael 👋
 
-- 💻 Fullstack Junior Developer – working with JavaScript, PHP, React, Node.js, TypeScript and PostgreSQL – at <a href="https://netsupre.com.br/" target="_blank">Net Suprema</a>.
+- 💻 Fullstack Junior Developer working with PHP, JavaScript, React, Node.js, TypeScript, and PostgreSQL at <a href="https://netsupre.com.br/" target="_blank">Net Suprema</a> since July 2023.
 - 📚 Undergraduate student majoring in Computer Science at the <a href="https://www.ufg.br/" target="_blank">Federal University of Goiás (UFG)</a>.
 - 👀 Graduated in Full Stack Web Development at <a href="https://www.driven.com.br/" target="_blank">Driven Education</a>.
 - ⚽ I'm a big fan of all kinds of sports, especially football. I love cheering for my favorite teams: Corinthians, Manchester United, and Real Madrid.
