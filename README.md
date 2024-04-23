@@ -1,6 +1,6 @@
 ## 👋  Hello everyone, I'm André Ribeiro Rafael 👋
 
-- 💻 Fullstack Junior Developer working with PHP, JavaScript, React, Node.js, TypeScript, and PostgreSQL at <a href="https://netsupre.com.br/" target="_blank">Net Suprema</a> since July 2023.
+- 💻 Fullstack Junior Developer working with PHP, JavaScript, jQuery, React, TypeScript, and PostgreSQL at <a href="https://netsupre.com.br/" target="_blank">Net Suprema</a> since July 2023.
 - 📚 Undergraduate student majoring in Computer Science at the <a href="https://www.ufg.br/" target="_blank">Federal University of Goiás (UFG)</a>.
 - 👀 Graduated in Full Stack Web Development at <a href="https://www.driven.com.br/" target="_blank">Driven Education</a>.
 - ⚽ I'm a big fan of all kinds of sports, especially football. I love cheering for my favorite teams: Corinthians, Manchester United, and Real Madrid.
@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/html5-282A36?style=for-the-badge&logo=html5&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/css3-282A36?style=for-the-badge&logo=css3&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/javascript-282A36?style=for-the-badge&logo=javascript&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/jquery-282A36?style=for-the-badge&logo=jquery&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/react-282A36?style=for-the-badge&logo=react&logoColor=78D9F9" height="30"/>
 </div>
 
