@@ -1,14 +1,13 @@
-💻 Working at <a href="https://netsupre.com.br/" target="_blank">Net Suprema</a> as a Fullstack Web Developer (PHP, React, Node.js, PostgreSQL) since July 2023.
+Working at <a href="https://netsupre.com.br/" target="_blank">Net Suprema</a> as a Fullstack Web Developer (PHP, React, Node.js, PostgreSQL) since July 2023.
 <br>
-📚 Computer Science major at <a href="https://www.ufg.br/" target="_blank">UFG</a>
+Computer Science major at <a href="https://www.ufg.br/" target="_blank">UFG</a>
 <br>
-📧 Feel free to reach out to me at andreribeiroorafael@gmail.com
+Feel free to reach out to me at andreribeiroorafael@gmail.com
 
 <a href="https://www.linkedin.com/in/iamandreribeiro/" target="blank"><img align="left" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="50" /></a>
 <br>
 <br>
 ##
-<br>
 <div align="center">
   <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamandreribeiro&show_icons=true&layout=compact&theme=dracula" height="400" />
   <br>
