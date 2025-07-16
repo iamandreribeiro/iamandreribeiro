@@ -6,6 +6,7 @@
 
 <a href="https://www.linkedin.com/in/iamandreribeiro/" target="blank"><img align="left" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="50" /></a>
 <br>
+<br>
 ##
 <br>
 <div align="center">
