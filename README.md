@@ -8,6 +8,9 @@
 <br>
 ##
 <div align="center">
+  <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamandreribeiro&show_icons=true&layout=compact&theme=dracula" height="400" />
+  <br>
+  <br>
   <img src="https://img.shields.io/badge/html5-282A36?style=for-the-badge&logo=html5&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/css3-282A36?style=for-the-badge&logo=css3&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/javascript-282A36?style=for-the-badge&logo=javascript&logoColor=78D9F9" height="30"/>
@@ -25,15 +28,3 @@
   <img src="https://img.shields.io/badge/Notion-282A36?style=for-the-badge&logo=notion&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/Trello-282A36?style=for-the-badge&logo=trello&logoColor=78D9F9" height="30"/>
 </div>
-
-<br>
-<div align="center">
-  <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=iamandreribeiro&count_private=true&theme=dracula" height="400" />
-  <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamandreribeiro&show_icons=true&layout=compact&theme=dracula" height="400" />
-</div>
-
-<br>
-<div align="center">
-<img height="280em" align="center" alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamandreribeiro&theme=dracula" height="800"/>
-</div>
-<br>
