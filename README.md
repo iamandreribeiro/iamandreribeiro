@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/iamandreribeiro/" target="blank"><img align="left" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="50" /></a>
 <br>
 ##
+<br>
 <div align="center">
   <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamandreribeiro&show_icons=true&layout=compact&theme=dracula" height="400" />
   <br>
