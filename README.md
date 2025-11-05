@@ -1,6 +1,6 @@
-Working at <a href="https://netsupre.com.br/" target="_blank">Net Suprema</a> as a Fullstack Web Developer (PHP, React, Node.js, PostgreSQL) since July 2023.
+Full-Stack Developer | 2+ years of experience | JavaScript, React, Node.js, PHP
 <br>
-Computer Science major at <a href="https://www.ufg.br/" target="_blank">UFG</a>
+Computer Science student at the Federal University of Goiás (<a href="https://www.ufg.br/" target="_blank">UFG</a>)
 <br>
 Feel free to reach out to me at andreribeiroorafael@gmail.com
 
@@ -16,8 +16,10 @@ Feel free to reach out to me at andreribeiroorafael@gmail.com
   <img src="https://img.shields.io/badge/css3-282A36?style=for-the-badge&logo=css3&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/javascript-282A36?style=for-the-badge&logo=javascript&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/jquery-282A36?style=for-the-badge&logo=jquery&logoColor=78D9F9" height="30"/>
-  <img src="https://img.shields.io/badge/react-282A36?style=for-the-badge&logo=react&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/Next.js-282A36?style=for-the-badge&logo=next.js&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/node.js-282A36?style=for-the-badge&logo=node.js&logoColor=78D9F9" height="30"/>
+  <img src="https://img.shields.io/badge/NestJS-282A36?style=for-the-badge&logo=nestjs&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/php-282A36?style=for-the-badge&logo=php&logoColor=78D9F9" height="30"/>
   <img src="https://img.shields.io/badge/python-282A36?style=for-the-badge&logo=python&logoColor=78D9F9" height="30"/>
