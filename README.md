@@ -1,4 +1,4 @@
-Full-Stack Developer | 2+ years of experience | JavaScript, React, Node.js, PHP
+Full-Stack Developer | 3+ years of experience | TypeScript, JavaScript, React, Node.js, PHP
 <br>
 Computer Science student at the Federal University of Goiás (<a href="https://www.ufg.br/" target="_blank">UFG</a>)
 <br>
